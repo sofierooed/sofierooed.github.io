@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sofie Røed",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/sofierooed.png",
+    "email": "sofier@hawaii.edu",
+    "phone": "808-458-9501",
+    "website": "https://sofierooed.github.io",
+    "summary": "I am studying for a B.S.c. in Business Administration & Digital Management at Copenhagen Business School. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sofierooed", "url": "http://github.com/sofierooed" },
+      { "network": "linkedin", "username": "Sofie Røed", "url": "www.linkedin.com/in/sofie-røed-sofie-røed" },
+      { "network": "instagram", "username": "sofierooed", "url": "http://instagram.com/sofierooed" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Travelling" },
+    { "name": "Technology" },
+    { "name": "Sustainability" },
+    { "name": "Running" }
   ],
   "skills": [
     {
