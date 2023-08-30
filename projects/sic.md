@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/71338E2D-4F90-4102-963D-3C01BCC01D62_4_5005_c.jpeg
 title: "Sustainable Innovations Camp"
 date: 2022
 published: true
