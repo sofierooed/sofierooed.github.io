@@ -4,7 +4,7 @@ type: essay
 title: "Information Management in Novo Nordisk"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-06
-published: true
+published: false
 labels:
   - Information Management
 ---
