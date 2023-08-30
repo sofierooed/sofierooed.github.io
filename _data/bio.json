@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sofierooed", "url": "http://github.com/sofierooed" },
-      { "network": "linkedin", "username": "Sofie Røed", "url": "www.linkedin.com/in/sofie-røed-sofie-røed" },
+      { "network": "linkedin", "username": "Sofie Røed", "url": "http://linkedin.com/in/sofie-røed-sofie-røed" },
       { "network": "instagram", "username": "sofierooed", "url": "http://instagram.com/sofierooed" }
     ]
   },
@@ -37,7 +37,7 @@
       "studyType": "B.S.c.",
       "startDate": "2021-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Corporate Finance", "Financial Accounting"
       ]
     }
   ],
@@ -50,7 +50,8 @@
       "endDate": "Present",
       "summary": "Cloud & Corporate Infrastructure",
       "highlights": [
-        ""
+        "Asset Management", 
+        "Financial Accounting"
       ]
     },
     {
@@ -61,7 +62,8 @@
       "endDate": "2022-06-01",
       "summary": "3 months project work",
       "highlights": [
-        ""
+        "Digital Marketing",
+        "SEO"
       ]
     }
   ],
