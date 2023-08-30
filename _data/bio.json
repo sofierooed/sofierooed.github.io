@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python" ]
+      "keywords": [ "Python", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Microsoft Office", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -44,22 +44,24 @@
   "work": [
     {
       "company": "Novo Nordisk",
-      "position": "Student Assistant, Cloud & Corporate Infrastructure",
+      "position": "Student Assistant",
       "website": "",
-      "startDate": "2022-09-01",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Student Assistant",
+      "summary": "Cloud & Corporate Infrastructure",
+      "highlights": [
+        ""
       ]
     },
     {
       "company": "Dept Agency",
-      "position": "Student Assistant, project work",
+      "position": "Student Assistant",
       "website": "",
-      "startDate": "2021-01-01",
-      "endDate": "2021-06-31",
-      "summary": "",
+      "startDate": "2022-01-01",
+      "endDate": "2022-06-01",
+      "summary": "3 months project work",
       "highlights": [
-        "Project work relating to SEO for a Norwegian customer."
+        ""
       ]
     }
   ],
@@ -67,13 +69,13 @@
     {
       "organization": "CBS Climate Club",
       "website": "",
-      "position": "Head of Communication, SIC responsible",
-      "startDate": "2021-01-01",
+      "position": "Head of Communication & SIC responsible",
+      "startDate": "2022-01-01",
       "endDate": "Present",
-      "summary": "Responsible for external communication, and lead contributor to SIC",
+      "summary": "",
       "highlights": [
-        "Working with Social Media posts and website development",
-        "Creating and contributing to the Sustainable Innovation Camp"
+        "Responsible for external communication",
+        "Create and implement the Sustainable Innovation Camp"
       ]
     },
     {
@@ -84,11 +86,10 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        ""
+        "Investment network for young women"
       ]
     }
   ],
-
   "references": [
     {
       "name": "Available upon request"
